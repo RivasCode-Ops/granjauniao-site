@@ -10,3 +10,13 @@ dist/
 Thumbs.db
 *.zip
 auto-imports.d.ts
+.next/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env.*
+!.env.example
+tsconfig.tsbuildinfo
+.vercel/
